@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator Repo
-        uses: inkstainedcode/podcastgeneratortest@main
+        uses: cheshirebyte/test-podcastgenerator@main
